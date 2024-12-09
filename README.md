@@ -1,5 +1,7 @@
 # 🌱 Lucas' Learning Repository
 
+# THIS WILL START ON JAN 1 2025!
+
 Welcome to my **Learning Repository**! This is my central hub for all the resources, tutorials, articles, courses, and notes that I accumulate while expanding my skill set. Here, you'll find an organized record of what I've learned and what I'm currently exploring. Whether it's diving deeper into **Full-Stack Development**, experimenting with **AI/ML**, sharpening **Data Structures & Algorithms** knowledge, or learning about **System Design**, this space will track my progress over time.
 
 I plan to update this repository regularly as I discover new materials, tackle new challenges, and reflect on my ongoing learning journey.
