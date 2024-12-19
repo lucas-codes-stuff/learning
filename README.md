@@ -84,7 +84,7 @@ Each section below is organized into tables where I’ll list out articles, cour
 
 | Resource | Type | Description | Date | Notes/Reflections |
 |----------|------|-------------|------|-------------------|
-|          |      |             |      |                   |
+|  AZ-900  | Azure |   Azure basics          |   IN-PROGRESS   |                   |
 
 *(Resources and learnings about CI/CD, Azure, AWS, containerization, and more.)*
 
